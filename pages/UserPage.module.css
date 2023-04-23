@@ -1,0 +1,31 @@
+.user-page-container {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.user-page-heading {
+  font-size: 2rem;
+  color: #0066cc;
+}
+
+.user-page-email {
+  font-style: italic;
+}
+
+.user-page-course-heading {
+  color: #008000;
+}
+
+.user-page-course-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.user-page-course-item {
+  font-weight: bold;
+}
+
+.enrolled {
+  color: green;
+}
